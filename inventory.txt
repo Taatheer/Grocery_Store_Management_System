@@ -1,0 +1,41 @@
+10000    Apple    Fruits    Pieces    2.75    17    10    
+10001    Orange    Fruits    Pieces    1.0    46    10    
+10002    Grapes    Fruits    Box    10.0    30    10    
+10003    Lettuce    Vegetables    Pieces    1.5    32    12    
+10004    Pumpkin    Vegetables    Pieces    12.0    20    5    
+10005    Chicken 200g    Freezer    Packet    15.0    30    8    
+10006    Chicken thigh    Freezer    Pieces    12.0    25    6    
+10007    Milk 1L    Dairy    Box    7.0    25    6    
+10008    Yoghurt    Dairy    Box    15.0    30    7    
+10010    Chocolate    Dairy    Packet    9.0    1    4    
+10011    Kokocruch 450g    Cereals    Box    14.0    35    10    
+10010    Alpen 200g    Cereals    Box    10.0    40    8    
+10013    Nuts    Snack    Packet    6.0    40    10    
+10014    Nutella    Snack    Box    14.0    32    12    
+10015    Oreo    Snack    Packet    4.0    50    13    
+10016    Pringles    Snack    Packet    5.0    60    10    
+10017    Sando    Snack    Packet    1.5    70    10    
+10018    Fish Fingers    Freezer    Box    15.0    43    8    
+10019    Ice cream    Freezer    Box    23.0    25    12    
+10020    Banana    Fruits    Pieces    2.0    45    7    
+10021    Pear    Fruits    Pieces    1.5    45    15    
+10022    Carpet    Home    Pieces    30.0    20    5    
+10023    Knife    Home    Pieces    20.0    25    9    
+10024    Toothbrush    Home    Pieces    4.0    3    10    
+10025    Toothpaste    Home    Pieces    6.0    45    9    
+10026    Shrimp 200g    Freezer    Box    26.0    27    9    
+10027    Spoon & Fork set    Home    Packet    26.0    23    5    
+10028    Pencil    Stationery    Pieces    1.0    80    10    
+10029    Eraser    Stationery    Pieces    2.5    60    15    
+10030    Sharpener    Stationery    Pieces    1.5    55    13    
+10031    Potato 1kg    Vegetables    Packet    12.0    25    10    
+10032    Tomato 1kg    Vegetables    Packet    15.0    24    10    
+10033    Oignons    Vegetables    Packet    11.0    23    8    
+10034    Foldable table    Home    Pieces    50.0    20    4    
+10035    Plastic bags x40    Home    Packet    12.0    45    14    
+10036    Bin    Home    Pieces    7.0    25    5    
+10037    Detergent    Home    Pieces    7.0    46    10    
+10038    Shampoo    Home    Pieces    8.0    30    9    
+10039    Nuggets 250g    Freezer    Box    14.0    31    8    
+10012    Bottle    Home    Pieces    9.0    25    10    
+10041    Cornflakes 1kg    Cereals    Box    15.0    45    10    
